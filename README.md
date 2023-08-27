@@ -22,7 +22,7 @@ Node 14
    npm run prepare
 ```
 
-## Ejecucion en dev
+## Ejecución en dev
 
 ```bash
    npm run dev
